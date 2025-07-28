@@ -1,6 +1,0 @@
-
-function functionName() {
-
-  return
-
-}
